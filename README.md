@@ -1,6 +1,6 @@
 # PDFVoice
 
-With the PDFVoice Wizard, you can easily import your PDFs and instantly get an audio version of the content. Simply select the desired PDF file, and the software will extract the text from all the pages, turning it into an audio file. You can listen to your documents while doing other tasks, making reading more flexible and accessible.
+With the PDFVoice, you can easily import your PDFs and instantly get an audio version of the content. Simply select the desired PDF file, and the software will extract the text from all the pages, turning it into an audio file. You can listen to your documents while doing other tasks, making reading more flexible and accessible.
 
 ## Main features:
 
