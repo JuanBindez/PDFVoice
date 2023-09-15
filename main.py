@@ -8,7 +8,7 @@ from src.text_to_audio import text_to_audio
 
 
 def main():
-    pdf_path = str(input("Digite o nome do seu PDF ->"))
+    pdf_path = str(input("PDF name ->"))
     extracted_text = extract_text_from_pdf(pdf_path)
 
     output_audio_path = pdf_path + ".mp3"
